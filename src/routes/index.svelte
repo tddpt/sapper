@@ -2,6 +2,7 @@
 	h1, figure, p {
 		text-align: center;
 		margin: 0 auto;
+	
 	}
 
 	h1 {
@@ -33,7 +34,7 @@
 </style>
 
 <svelte:head>
-	<title>Sapper project template</title>
+	<title>Todd Peterson Projects</title>
 </svelte:head>
 
 <h1>Great success!</h1>
